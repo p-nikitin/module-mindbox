@@ -17,7 +17,7 @@ class izifir_mindbox extends CModule
         $this->MODULE_NAME = 'Интеграция с mindbox';
         $this->MODULE_DESCRIPTION = 'Интеграция с mindbox';
 
-        $this->PARTNER_NAME = 'Стратосфера';
+        $this->PARTNER_NAME = 'IZIFIR';
         $this->PARTNER_URI = 'https://izifir.ru';
     }
 
